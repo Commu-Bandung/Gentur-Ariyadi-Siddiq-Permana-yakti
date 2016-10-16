@@ -7,7 +7,7 @@
 
 
 <strong>1.2 Identifikasi Masalah</strong>
-Dari identifikasi diatas, dapat disimpulkan masalah  yang dihadapi anggota komutitas untuk mencari sponsorship yaitu:</br>
+Dari latar belakang masalah diatas, dapat disimpulkan masalah  yang dihadapi anggota komutitas untuk mencari sponsorship yaitu:</br>
 1.	Kesulitan mencari sponsor dalam jangkauan luas dalam waktu singkat.</br>
 2.	Kerepotan pengiriman proposal dikarenakan lokasi calon sponsor berjauhan</br>
 3.	Respon  perusahaan akan mensponsori acara lambat</br>
