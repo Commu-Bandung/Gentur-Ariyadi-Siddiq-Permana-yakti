@@ -11,7 +11,7 @@
 <strong>2.5.	Pengertian Partnership</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Partnership berasal dari akar kata yaitu partner. Partner dapat diterjemahkan sebagai pasangan, sekutu, atau kompanyon, sedangkan partnership diterjemahkan sebagai persekutuan atau perkongsian. Berdasarkan terjemahan asal katanya dapat dimaknai sebagai suatu bentuk persekutuab antara dua pihak atau lebih yang membentuk suatu ikatan kerjasama atas dasar kesepakatan dan saling membutuhkan.[5]</p></br>
 <strong>2.6.	Pengertian Organisasi</strong></br>
-&nbsp;&nbsp;&nbsp;&nbsp;<p align="justify"Organisasi adalah sebuah unit sosial yang dikoordinasikan secara sadar, terdiri atas dua orang atau lebih dan yang relatif terus-menerus guna mencapai satu atau serangkaian tujuan bersama. Organisasi tanpa manajemen yang baik akan mengakibatkan rutinitas organisasi tidak dapat bertahan lama.[6] </p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Organisasi adalah sebuah unit sosial yang dikoordinasikan secara sadar, terdiri atas dua orang atau lebih dan yang relatif terus-menerus guna mencapai satu atau serangkaian tujuan bersama. Organisasi tanpa manajemen yang baik akan mengakibatkan rutinitas organisasi tidak dapat bertahan lama.[6] </p>
 <strong>2.7.	Pengertian Perusahaan</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Pengertian perusahaan menurut UU No. 8 Pasal 1 ayat 1 tahun 1997 adalah setiap bentuk usaha yang melakukan kegiatan secara tetap dan terus menerus dengan tujuan memperoleh keuntungan dan atau laba, baik yang diselenggarakan oleh orang-perorangan maupun badan usaha yang berbentuk badan hukum atau bukan badan hukum, yang didirikan dan berkedudukan dalam wilayah Negara Republik Indonesia.</p>
 <strong>2.8 PHP</strong></br>
