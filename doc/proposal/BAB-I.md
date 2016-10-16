@@ -20,15 +20,16 @@ Pada proyek ini ada beberapa hal yang dibatasi permasalahannya yaitu:</br>
 1.	Aplikasi pencari sponsor ini hanya diperuntukan kepada komunitas atau organisasi mahasiswa se kota bandung yang aktif ditahun itu.</br>
 2.	Validasi pendaftaran anggota menggunakan screenshoot kartu tanda mahasiswa yang masih aktif</br>
 <strong>1.5 jadwal kegiatan  pekerjaan proyek</strong></br>
-<tr><td>No</td><td>	Hari/ tanggal	Kegiatan</td>	<td>keterangan</td></tr>
-<tr><td>1</td>	<td>24-30 Oktober  2016</td>	<td>Pembuatan bab I</td><td></td></tr>
-<tr><td>2/td>	<td>31 Okt-6 Nov 2016</td>	<td>Pembuatan bab II dan pada bab III (analisis)</td><td></td></tr>
-<tr><td>3</td>	<td>7 - 13 Nov  2016</td>	<td>Bab III</td><td> (perancangan)</td></tr>
-<tr><td>4</td>	<td>14-20 Nov 2016</td>	<td>Implementasi antarmuka aplikasi</td><td></td> 	</tr>
-<tr><td>5</td>	<td>21-27 Nov 2016</td><td>	Implementasi aplikasi</td>	<td>Proses pengkodean</td></tr>
-<tr><td>6</td>	<td>28 Nov -4 Des 2016</td><td>	Implementasi aplikasi</td>	<td>Proses pengkodean</td></tr>
-<tr><td>7</td>	<td>5 -11  Des 2016</td> 	<td>Implementasi aplikasi</td>	<td>Proses pengkodean</td></tr>
-<tr><td>8</td>	<td>12 – 18 Des 2016</td>	<td>Bab IV dan Pengujian</td><td></td></tr>
-<tr><td>9</td>	<td>19-25 Des 2016</td>	<td>Bab v</td> <td>(Kesimpulan dan saran)</td></tr>
-<tr><td>10</td>	<td>26 Des 2016 – 1 Jan 2017</td>	<td>Mempersiapkan persyaratan-persyaratan sidang</td><td></td></tr>
+No  |	Hari/ tanggal	Kegiatan  | keterangan
+----------|----------|----------|---------
+1 | 24-30 Oktober  2016 | Pembuatan bab I |     
+2 | 31 Okt-6 Nov 2016 | Pembuatan bab II dan pada bab III (analisis) |
+3 | 7 - 13 Nov  2016  | Bab III  |  (perancangan)
+4 | 14-20 Nov 2016    | Implementasi antarmuka aplikasi|
+5 | 21-27 Nov 2016    |	Implementasi aplikasi |Proses pengkodean
+6 | 28 Nov -4 Des 2016|	Implementasi aplikasi | Proses pengkodean
+7 | 5 -11  Des 2016   | 	Implementasi aplikasi|	Proses pengkodean
+8 | 12 – 18 Des 2016  | Bab IV dan Pengujian  |
+9 | 19-25 Des 2016    |Bab v(Kesimpulan dan saran)|
+10| 26 Des 2016 – 1 Jan 2017  |Mempersiapkan persyaratan-persyaratan sidang |
 <i>Tabel 1.1</i>
