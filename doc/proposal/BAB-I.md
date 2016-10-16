@@ -19,17 +19,19 @@ Ketiga, tujuan dari pembuatan system ini agar anggota komunitas atau organisasi 
 Pada proyek ini ada beberapa hal yang dibatasi permasalahannya yaitu:</br>
 1.	Aplikasi pencari sponsor ini hanya diperuntukan kepada komunitas atau organisasi mahasiswa se kota bandung yang aktif ditahun itu.</br>
 2.	Validasi pendaftaran anggota menggunakan screenshoot kartu tanda mahasiswa yang masih aktif</br>
-<strong>1.5 jadwal kegiatan  pekerjaan proyek</strong></br>
-No  |	Hari/ tanggal	Kegiatan  | keterangan
-----------|----------|----------|---------
-1 | 24-30 Oktober  2016 | Pembuatan bab I |     
-2 | 31 Okt-6 Nov 2016 | Pembuatan bab II dan pada bab III (analisis) |
-3 | 7 - 13 Nov  2016  | Bab III  |  (perancangan)
-4 | 14-20 Nov 2016    | Implementasi antarmuka aplikasi|
-5 | 21-27 Nov 2016    |	Implementasi aplikasi |Proses pengkodean
-6 | 28 Nov -4 Des 2016|	Implementasi aplikasi | Proses pengkodean
-7 | 5 -11  Des 2016   | 	Implementasi aplikasi|	Proses pengkodean
-8 | 12 – 18 Des 2016  | Bab IV dan Pengujian  |
-9 | 19-25 Des 2016    |Bab v(Kesimpulan dan saran)|
-10| 26 Des 2016 – 1 Jan 2017  |Mempersiapkan persyaratan-persyaratan sidang |
+<strong>1.5    Jadwal Kegiatan Pekerjaan Proyek</strong>
+<p align="justify">
+
+No|	Hari/ tanggal|	Kegiatan|	keterangan
+------------ | ------------- | ------------- | -------------
+1	|24-30 Oktober  2016|	Pembuatan bab I|
+2	|31 Okt-6 Nov 2016|	Pembuatan bab II dan pada bab III (analisis)|
+3	|7 - 13 Nov  2016|	Bab III (perancangan)|
+4	|14-20 Nov 2016|	Implementasi antarmuka aplikasi|
+5	|21-27 Nov 2016|	Implementasi aplikasi| Proses pengkodean
+6	|28 Nov -4 Des 2016|	Implementasi aplikasi|	Proses pengkodean
+7	|5 -11  Des 2016| Implementasi aplikasi|	Proses pengkodean
+8	|12 – 18 Des 2016|	Bab IV dan Pengujian|
+9	|19-25 Des 2016|	Bab v (Kesimpulan dan saran)|
+10	|26 Des 2016 – 1 Jan 2017|	Mempersiapkan persyaratan-persyaratan sidang|
 <i>Tabel 1.1</i>
