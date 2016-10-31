@@ -1,4 +1,4 @@
-<h1 align="center"><strong>BAB II</strong></h1>
+<h1 align="center"><strong>BAB II </strong></h1>
 <h1 align="center"><strong>LANDASAN TEORI</strong></h1>
 <strong>2.1.	Pengertian Perancangan</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Perancangan adalah suatu proses yang bertujuan untuk menganalisis, menilai memperbaiki dan menyusun suatu sistem, baik sistem fisik maupun non fisik yang optimum untuk waktu yang akan datang dengan memanfaatkan informasi yang ada.[1]</p>
