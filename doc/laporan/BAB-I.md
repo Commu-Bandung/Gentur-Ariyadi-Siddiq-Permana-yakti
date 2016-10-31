@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Agar anggota mendapat kemudahan mencari perusahaan dalam ruang  lingkup yang luas dengan waktu singkat, keleluasaan dan kemudahan dalam pengiriman proposal, dan respon pemberian dana dari sponsor dengan cepat, maka dibuat suatu aplikasi untuk mewujudkan kemudahan dalam mencari sponsor. Aplikasi ini berbasis smartphone dan web, dimana web menggunakan bahasa pemograman php dengan framework LARAVEL dan disisi mobil menggunakan bahasa pemogramman JAVA ANDROID. Untuk pertukaran data antar platform menggunakan web service dengan bahasan JSON. Dalam perencanaan pembuatan aplikasi ini akan diberi judul “Perancangan Serta Implementasi Aplikasi Pencarian Sponsor Dan Partnership Antara Organisasi/ Komunitas Kampus Dengan Perusahaan Berbasis Website (Framework Laravel) Dan Mobile (Android) (SUB MODUL: PENGELOLAAN PENCARIAN SPONSOR BAGI ORGANISASI & KOMUNITAS)”
 
 
-<strong>1.2 Identifikasi Masalah</strong>
+<strong>1.2 Identifikasi Masalah</strong> 
 Dari latar belakang masalah diatas, dapat disimpulkan masalah  yang dihadapi anggota komutitas untuk mencari sponsorship yaitu:</br>
 1.	Kesulitan mencari sponsor dalam jangkauan luas dalam waktu singkat.</br>
 2.	Kerepotan pengiriman proposal dikarenakan lokasi calon sponsor berjauhan</br>
@@ -18,5 +18,5 @@ Ketiga, tujuan dari pembuatan system ini agar anggota komunitas atau organisasi 
 <strong>1.4 Ruang lingkup</strong></br>
 Pada proyek ini ada beberapa hal yang dibatasi permasalahannya yaitu:</br>
 1.	Aplikasi pencari sponsor ini hanya diperuntukan kepada komunitas atau organisasi mahasiswa se kota bandung yang aktif ditahun itu.</br>
-2.	Validasi pendaftaran anggota menggunakan screenshoot kartu tanda mahasiswa yang masih aktif</br>
+2.	Validasi pendaftaran anggota menggunakan screenshoot kartu tanda mahasiswa yang masih aktif.</br>
 
