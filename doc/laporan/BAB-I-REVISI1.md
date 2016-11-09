@@ -11,6 +11,7 @@ Dari latar belakang masalah diatas, dapat disimpulkan masalah  yang dihadapi ang
 1.	Sulitnya mencari sponsor dalam jangkauan luas dalam waktu singkat.</br>
 2.	Proses pengiriman proposal sulit dikarenakan lokasi calon sponsor berjauhan</br>
 3.	Respon perusahaan yang akan memberikan sponsor lambat</br>
+
 <strong>1.3 Tujuan</strong></br>
 Dilihat dari identifikasi masalah diatas dapat diambil tujuan pembuatan aplikasi ini yaitu: </br>
 1.	Proses mencari sponsor cepat dan efisien </br>
