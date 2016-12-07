@@ -115,3 +115,88 @@ Aksi Aktor | Reaksi Sistem
 1.	Meminta halaman view hasil review proposal | 2.	Menampilkan halaman view hasil review proposal 
 <br>
 
+Tabel 3.7  Skenario Use Case Pengajuan proposal<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-03
+Nama | Pengajuan proposal
+Tujuan | Mengajukan proposal untuk mengadakan event
+Deskripsi | Mengirimkan proposal ke admin untuk di validasi syarat-syaratnya, apabila valid maka dikirim ke perusahaan untuk direview.
+Aktor | Anggota
+Skenario | ...
+Kondisi awal | Menampilkan hal.utama anggota pilih ajukan proposal
+Aksi Aktor | Reaksi Sistem
+1.	Meminta halaman ajukan proposal | 2.	Menampilkan halaman yang diminta
+3.	Masukan proposal | 4.	Menampilkan notifikasi proposal sudah dikirim 
+<br>
+
+Tabel 3.8 Skenario Use Case Validasi persyaratan<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-06
+Nama | Validasi persyaratan
+Tujuan | Mengecek kelengkapan proposal
+Deskripsi | Admin mengecek kelengkapan proposal yang diajukan anggota
+Aktor | Anggota
+Skenario | ...
+Kondisi awal | Menampilkan halaman utama aplikasi, lalu mucul notifikasi
+Aksi Aktor | Reaksi Sistem
+1.	Periksa kelengkaapan, pilih button tolak | 2.	Menampilkan notifikasi ke anggota, dan mengirim pesan bahwa proposal anda tidak lengkap serta alasannya.
+3.	Apabila lengkap, pilih button terima | 4.	Masuk ke menu distribusi proposal
+<br>
+
+Tabel 3.9 Skenario Use Case distribusi proposal<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-07
+Nama | Mendistribusikan proposal
+Tujuan | Mengirimkan proposal ke perusahaan
+Deskripsi | Admin memilih perusahaan yang akan dikirim proposal 
+Aktor | Admin
+Skenario | ...
+Kondisi awal | menu distribusi proposal
+Aksi Aktor | Reaksi Sistem
+1.	Pilih perusahaan yang akan dikirim proposal, lalu kirimkan | 2.	Mengirimkan file proposal ke perusahaan yang dituju.
+<br>
+
+Tabel 3.10 Skenario Use Case Review proposal<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-08
+Nama | Review proposal
+Tujuan | Mereview proposal
+Deskripsi | Perusahaan menentukan proposal itu diterima atau ditolak 
+Aktor | Perusahaan
+Skenario | ...
+Kondisi awal | Menu utama aplikasi, lalu muncul notifikasi
+Aksi Aktor | Reaksi Sistem
+1.	Apabila diterima maka tekan tombol terima | 2.	Mengirim notifikasi dan pesan ke anggota bahwa proposal diterima
+3.	Apabila ditolak, maka tekan tombol tolak | 4.	Mengirim notifikasi dan pesan ke anggota bahwa proposal ditolak
+<br>
+
+Tabel 3.11 Skenario Use Case Login<br>
+
+Identifikasi| ...
+------------ | -------------
+Nomor | UC-12
+Nama | Login
+Tujuan | Masuk kedalam system
+Deskripsi | Untuk masuk kedalam aplikasi 
+Aktor | Perusahaan, admin, anggota
+Skenario | ...
+Kondisi awal | Halaman umum, pilih login
+Aksi Aktor | Reaksi Sistem
+1.	User mengisi username dan password | 2.	Menvalidasi, jika benar akan masuk sesuai usernya, apabila salah muncul notifikasi “your account didn’t match”
+3.	Apabila ditolak, maka tekan tombol tolak | 4.	Mengirim notifikasi dan pesan ke anggota bahwa proposal ditolak
+<br>
+
+<h3><strong>3.2.1 Class Diagram</strong></h3>
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Class Diagram adalah diagram UML yang menggambarkan kelas-kelas 
+dalam sebuah sistem dan hubungannya antara satu proses dengan proses yang lain, serta dimasukkan pula atribut 
+dan operasi. Class Diagram pada aplikasi sebagai berikut:</p>
+<p align="center"><img src="../../img/laporan/bab 3/uml/class diagram.PNG"></br></p>
+<p align="center"><i>Gambar 3.6 class diagram</i></p>
