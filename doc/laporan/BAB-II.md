@@ -25,6 +25,8 @@ UML tidak hanya merupakan sebuah bahasa pemograman visual saja, namun juga dapat
 <strong>2.11 Laravel</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Laravel adalah framework PHP dengan kode terbuka (open source) dengan desain MVC (Model-View-Controller) yang digunakan untuk membangun aplikasi website. Framework ini pertama kali dibangun oleh Taylor Otwell pada tanggal 22 Pebruari 2012.[9]</p></br>
 <img align="center" src="../../img/proposal/laravel-logo-white.png"> </br>
+<i>Gambar 1. Logo Laravel</i> </br>
+</br>
 <strong>2.12 Model View Controller</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Model-View-Controller atau MVC adalah sebuah metode untuk membuat sebuah aplikasi dengan memisahkan data (Model) dari tampilan (View) dan cara bagaimana memprosesnya (Controller).</br>
 1.	Model, Model mewakili struktur data. Biasanya model berisi fungsi-fungsi yang membantu seseorang dalam pengelolaan basis data seperti memasukkan data ke basis data, pembaruan data dan lain-lain</br>
@@ -32,11 +34,13 @@ UML tidak hanya merupakan sebuah bahasa pemograman visual saja, namun juga dapat
 3.	Controller, Controller merupakan bagian yang menjembatani model dan view.[9]</p></br>
 <strong>2.13  Android</strong></br>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Android adalah sebuah sistem operasi untuk perangkat mobile berbasis linux yang mencakup sistem operasi, middleware dan aplikasi.Android menyediakan platform terbuka bagi para pengembang untuk menciptakan aplikasi mereka. Awalnya, Google Inc. membeli Android Inc. yang merupakan pendatang baru yang membuat piranti lunak untuk ponsel/smartphone. Kemudian untuk mengembangkan Android, dibentuklah Open Handset Alliance, konsorsium dari 34 perusahaan piranti keras, piranti lunak, dan telekomunikasi, termasuk Google, HTC, Intel, Motorola, Qualcomm, T-Mobile, dan Nvidia. Secara garis besar, arsitektur Android dapat dijelaskan dan digambarkan sebagai berikut:</br>
-•	Applications dan Widgets Applications dan Widgets ini adalah layer dimana berhubungan dengan aplikasi saja, di mana biasanyadownload aplikasi dijalankan kemudian dilakukan instalasi dan jalankan aplikasi tersebut.</br>
-•	Applications Frameworks Applications frameworks ini adalah layer di mana para pembuat aplikasi melakukan pengembangan/pembuatan aplikasi yang akan dijalankan di sistem operasi Android, karena pada layer inilah aplikasi dapat dirancang dan dibuat, seperti contectproviders yang berupa sms dan panggilan telepon.</br>
-•	Libraries Libraries ini adalah layer di mana tur-tur Android berada, biasanya para pembuat aplikasi mengakses libraries untuk menjalankan aplikasinya. Berjalan di atas kernel, Layer ini meliputi berbagai library C/C++ inti seperti Libc dan SSL.</br>
-•	Android Run Time Layer yang membuat aplikasi Android dapat dijalankan dimana dalam prosesnya menggunakan Implementasi Linux.</br>
-•	Linux Kernel Linux Kernel adalah layer di mana inti dari operating system dari Android itu berada. Berisi file-file system yang mengatur sistem processing, memory, resource, drivers, dan system.  Sistem operasi android lainnya. Linux kernel yang digunakan android adalah linux kernel release 2.6.[10]</p></br>
+ï¿½	Applications dan Widgets Applications dan Widgets ini adalah layer dimana berhubungan dengan aplikasi saja, di mana biasanyadownload aplikasi dijalankan kemudian dilakukan instalasi dan jalankan aplikasi tersebut.</br>
+ï¿½	Applications Frameworks Applications frameworks ini adalah layer di mana para pembuat aplikasi melakukan pengembangan/pembuatan aplikasi yang akan dijalankan di sistem operasi Android, karena pada layer inilah aplikasi dapat dirancang dan dibuat, seperti contectproviders yang berupa sms dan panggilan telepon.</br>
+ï¿½	Libraries Libraries ini adalah layer di mana tur-tur Android berada, biasanya para pembuat aplikasi mengakses libraries untuk menjalankan aplikasinya. Berjalan di atas kernel, Layer ini meliputi berbagai library C/C++ inti seperti Libc dan SSL.</br>
+ï¿½	Android Run Time Layer yang membuat aplikasi Android dapat dijalankan dimana dalam prosesnya menggunakan Implementasi Linux.</br>
+ï¿½	Linux Kernel Linux Kernel adalah layer di mana inti dari operating system dari Android itu berada. Berisi file-file system yang mengatur sistem processing, memory, resource, drivers, dan system.  Sistem operasi android lainnya. Linux kernel yang digunakan android adalah linux kernel release 2.6.[10]</p></br>
 <img height="300cm" weight="300cm" align="justify" src="../../img/proposal/android.jpg"> </br>
+<i>Gambar 2. Logo Android</i> </br>
+</br>
 <strong>2.14 Java</strong> </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Bahasa java merupakan bahasa pemrograman yang simple, object oriented, distributed, interpreted, robust, secure, architecture neutral, portable, high performance, multithreaded dan dynamic. Simple karena java dikembangkan dari bahasa C++ dengan menghilangkan fungsi yang jarang digunakan dan kerumitan yang ada didalamnya serta memiliki sintaks yang hampir sama yang akan memberikan kemudahan dalam penggunaannya. Object Oriented karena menggunakan mekanisme obyek dalam desain dan pemrogramannya. Java memiliki dukungan luas terhadap pemrograman jaringan dan internet sehingga sangat banyak digunakan dalam aplikasi sistem terdistribusi dan jaringan internet.[11]</p></br>
