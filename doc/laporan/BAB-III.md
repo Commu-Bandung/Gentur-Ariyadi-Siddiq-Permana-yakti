@@ -84,8 +84,8 @@ No| Aktor| Keterangan
 
 <h4 align="justify"><strong> 3.2.1.1 Skenario Use Case</strong></h4>
 Tabel 3.5 Skenario Use Case Registrasi<br>
-Identifikasi | ...
-------------- | -------------
+Identifikasi| ...
+------------ | -------------
 Nomor | UC-01 
 Nama | Registrasi
 Tujuan | Mendata dan membatas pengguna sistem 
@@ -100,7 +100,7 @@ Aksi | Reaksi Sistem
 <br> 
 Tabel 3.6  Skenario Use Case View hasil review proposal<br>
 Identifikasi| 
-------------- | -------------
+------------ | -------------
 Nomor | UC-02
 Nama | View hasil review proposal
 Tujuan | Melihat diterima/ditolaknya proposal dari perusahaan
