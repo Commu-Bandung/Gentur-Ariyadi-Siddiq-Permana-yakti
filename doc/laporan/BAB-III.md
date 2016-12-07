@@ -64,6 +64,7 @@ No| Aktor| Keterangan
 <br>
 
 Tabel 3.4. Definisi Use Case<br>
+
 No| Aktor| Keterangan
 ------------ | ------------- | -------------
 1 | UC-01 Registrasi | Mendaftar menjadi anggota di aplikasi
@@ -84,6 +85,7 @@ No| Aktor| Keterangan
 
 <h4 align="justify"><strong> 3.2.1.1 Skenario Use Case</strong></h4>
 Tabel 3.5 Skenario Use Case Registrasi<br>
+
 Identifikasi| ...
 ------------ | -------------
 Nomor | UC-01 
@@ -96,10 +98,11 @@ Kondisi awal | Menampilkan halaman umum, lalu pilih registrasi
 Aksi | Reaksi Sistem
 1.Actor meminta halaman registrasi | 2.	Menampilkan halaman registrasi
 3.	Memasukan identitas diri | 4.	Melakukan proses validasi
-
 <br> 
+
 Tabel 3.6  Skenario Use Case View hasil review proposal<br>
-Identifikasi| 
+
+Identifikasi| ...
 ------------ | -------------
 Nomor | UC-02
 Nama | View hasil review proposal
@@ -110,4 +113,5 @@ Skenario | ...
 Kondisi awal | Menampilkan hal.utama anggota pilih review proposal
 Aksi Aktor | Reaksi Sistem
 1.	Meminta halaman view hasil review proposal | 2.	Menampilkan halaman view hasil review proposal 
+<br>
 
