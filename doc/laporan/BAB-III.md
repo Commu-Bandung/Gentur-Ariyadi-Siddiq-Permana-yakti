@@ -194,9 +194,127 @@ Aksi Aktor | Reaksi Sistem
 3.	Apabila ditolak, maka tekan tombol tolak | 4.	Mengirim notifikasi dan pesan ke anggota bahwa proposal ditolak
 <br>
 
-<h3><strong>3.2.1 Class Diagram</strong></h3>
+<h3><strong>3.2.2 Class Diagram</strong></h3>
 &nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Class Diagram adalah diagram UML yang menggambarkan kelas-kelas 
 dalam sebuah sistem dan hubungannya antara satu proses dengan proses yang lain, serta dimasukkan pula atribut 
 dan operasi. Class Diagram pada aplikasi sebagai berikut:</p>
 <p align="center"><img src="../../img/laporan/bab 3/uml/class diagram.PNG"></br></p>
 <p align="center"><i>Gambar 3.6 class diagram</i></p>
+<h3><strong>3.2.3 Sequence Diagram</strong></h3>
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="justify">Sequence Diagram merupakan penggambaran keterhubungan atau interaksi 
+antar objek dalam suatu jangka waktu. Sequence Diagram terutama menampilkan interaksi antara pengguna (user) dengan sistem.</p>
+<h4><strong>3.2.3.1 Sequence Diagram Login</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/1.Login.jpg"></br></p>
+<p align="center"><i>Gambar 3.7 sequence diagram login</i></p>
+<p align="justify">Tabel 3.12 Sequence Diagram Login</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1. |Open |	Membuka system
+2. |Tampil form login | 	Sistem menampilkan form login kepada actor
+3. |Input username dan password |Aktor mengisikan username dan password yang sudah dibuat
+4. |Request |Sistem merequest kepada API
+5. |Response |Sistem mendapatkan response dari API
+6. |Send form UI utama |Sistem mengirimkan userinterface utama
+<br> 
+
+<h4><strong>3.2.3.2 Sequence Diagram Registrasi</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/2.registrasi.jpg"></br></p>
+<p align="center"><i>Gambar 3.8 sequence diagram registrasi</i></p>
+<p align="justify">Tabel 3.13 Sequence Diagram Registrasi</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1. |Open |	Membuka system
+2. |Tampil form registrasi | Sistem menampilkan form registrasi kepada actor
+3. |Input identitas |Aktor mengisikan identitas didalam form
+4. |Request |Sistem merequest kepada API
+5. |Response |Sistem mendapatkan response dari API
+6. |Send form UI utama |Sistem mengirimkan userinterface utama
+<br> 
+
+<h4><strong>3.2.3.3 Sequence Diagram Pengajuan Proposal</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/3.pengajuan proposal.jpg"></br></p>
+<p align="center"><i>Gambar 3.9 sequence diagram pengajuan proposal</i></p>
+<p align="justify">Tabel 3.14 Sequence Diagram pengajuan proposal</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1. |Open |	Membuka system
+2. |Tampil UI | Sistem menampilkan UI pengajuan proposal kepada actor
+3. |Input data |Aktor mengisikan data ke dalam form
+4. |Request |Sistem merequest kepada API
+5. |Response |Sistem mendapatkan response dari API
+6. |Send form UI utama |Sistem mengirimkan userinterface utama
+<br> 
+
+<h4><strong>3.2.3.4 Sequence Validasi Persyaratan</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/4.validasi persyaratan.jpg"></br></p>
+<p align="center"><i>Gambar 3.10 sequence diagram validasi persyaratan</i></p>
+<p align="justify">Tabel 3.15 Sequence Diagram validasi persyaratan</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1.	|Open 	|Membuka system
+2.	|Request 	|Sistem melakukan request kepada API
+3.	|Response	|System mendapatkan response dari API
+4.	|Tampil data pengajuan	|Sistem menampilkan data pengajuan proposal kepada admin
+5.	|Pilih aksi 	|Admin memilih aksi untuk menvalidasi persyaratan proposal
+6.	|Request	|Sistem mengirimkan request ke API
+7.	|Response 	|System mendapatkan response dari API
+8.	|Tampilkan data	|System menampilkan data setelah aksi
+<br> 
+
+<h4><strong>3.2.3.5 Sequence Distribusi Proposal</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/5.distribusi proposal.jpg"></br></p>
+<p align="center"><i>Gambar 3.11 sequence diagram distribusi proposal</i></p>
+<p align="justify">Tabel 3.16 Sequence Diagram Distribusi proposal</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1.	|Open 	|Membuka system
+2.	|Request 	|Sistem melakukan request kepada API
+3.	|Response	|System mendapatkan response dari API
+4.	|Tampil data 	|Sistem menampilkan data proposal kepada admin
+5.	|Pilih perusahaan 	|Admin memilih perusahaan untuk dikirim proposal
+6.	|Request	|Sistem mengirimkan request ke API
+7.	|Response 	|System mendapatkan response dari API
+8.	|Tampilkan data	|System menampilkan data 
+<br> 
+
+<h4><strong>3.2.3.6 Sequence Diagram Review Proposal</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/6.review proposal.jpg"></br></p>
+<p align="center"><i>Gambar 3.12 sequence diagram review proposal</i></p>
+<p align="justify">Tabel 3.17 Sequence Diagram review proposal</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1.	|Open 	|Membuka system
+2.	|Request 	|Sistem melakukan request kepada API
+3.	|Response	|System mendapatkan response dari API
+4.	|Tampil data 	|Sistem menampilkan data proposal kepada perusahaan
+5.	|Pilih aksi 	|perusahaan memilih aksi ke proposal yang diterima
+6.	|Request	|Sistem mengirimkan request ke API
+7.	|Response 	|System mendapatkan response dari API
+8.	|Tampilkan data	|System menampilkan data 
+<br> 
+
+<h4><strong>3.2.3.7 Sequence Diagram View Hasil Review Proposal</strong></h4>
+<p align="center"><img src="../../img/laporan/bab 3/uml/sequence diagram/7.view hasil review proposal.jpg"></br></p>
+<p align="center"><i>Gambar 3.13 sequence diagram view review proposal</i></p>
+<p align="justify">Tabel 3.18 Sequence Diagram view review proposal</p>
+
+No| Nama Operasi| Keterangan
+------------ | ------------- | -------------
+1.	|Open 	|Membuka system
+2.	|Request 	|Sistem melakukan request kepada API
+3.	|Response	|System mendapatkan response dari API
+4.	|Tampil data 	|Sistem menampilkan data hasil review proposal kepada anggota
+<br> 
+
+
+
+
+
+
+
